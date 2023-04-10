@@ -14,9 +14,6 @@ Para executar o aplicativo localmente, você precisa ter o Android Studio instal
 4. Aguarde o Build do projeto e clique em "locate"
 5. Acesse o arquivo .apk pelo seu aparelho Android.
 
-
-[- ou faça o download do apk] ()
-
 ## Tecnologia utilizada
 
 Este aplicativo foi construído com Jetpack Compose e utiliza as seguintes bibliotecas:
